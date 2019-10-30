@@ -16,7 +16,7 @@ UViko is a large-scale Vietnamese - Korean Parallel Corpus with the detailed inf
 
 	. Vietnamese: 8,790,197
 
-. Korean: 5,435,686
+	. Korean: 5,435,686
 
 	. Korean with Word-sense disambiguation and Morphological analysis: 5,435,686
 	

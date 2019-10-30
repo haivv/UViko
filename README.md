@@ -1,4 +1,4 @@
-<b style="background:red; color: blue">UViko</b>
+<div style="background:red; color: blue">UViko</div>
 
 University of Ulsan - Vietnamese - Korean Parallel Corpus (454K sentence pairs) with Korean Word-Sense Annotation and Korean Word-sense disambiguation and Morphological analysis have been built in NLP Lab., University of Ulsan, Rep. of Korea. (http://nlplab.ulsan.ac.kr).
 UViko is a large-scale Vietnamese - Korean Parallel Corpus with the detailed information as the following.

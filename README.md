@@ -28,7 +28,9 @@ UViko is a large-scale Vietnamese - Korean Parallel Corpus with the detailed inf
 	. Korean:  397,130
 	
 	. Korean with Word-sense disambiguation: 68,856
-. Korean with Morphological analysis: 63,735
+	
+	. Korean with Morphological analysis: 63,735
+	
 The Korean Word-sense disambiguation and Morphological analysis were conducted by UTagger (http://nlplab.ulsan.ac.kr/doku.php?id=utagger) that consists of the following processes:
 . Korean morphological analysis
 . POS tagging
